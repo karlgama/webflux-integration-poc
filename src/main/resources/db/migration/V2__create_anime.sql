@@ -1,0 +1,4 @@
+CREATE TABLE animes(
+    id INTEGER PRIMARY KEY,
+    name VARCHAR NOT NULL
+)
